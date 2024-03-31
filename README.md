@@ -15,6 +15,7 @@ In this project, we added `hierarchical constraints` and `constituent attention`
 The project is hosted on `Colab`. Please follow the [link](https://drive.google.com/drive/folders/11PMBFEDVkjrm4O2td1NitIy0Z41TFcSh?usp=sharing) to check out the full details of this project.
 
 To setup the project and replicate the experimental results, please check out the `Colab` pages: 
+
 -[experiments with LSTM Baseline Model](https://colab.research.google.com/drive/1ii_f83InJxKFnvwDk3n0w8eNeEulwv83?usp=sharing);
 -[experiments with LSTM Tree Model](https://colab.research.google.com/drive/1u_vp1ye6PqmSCn7WsZT5uW3_-2PV7KBW?usp=sharing);
 -[experiments with VLN Bert Model](https://colab.research.google.com/drive/1zdbEnWL8yf7YFZpsNqNtYsdCXYLTTSWU?usp=sharing);
