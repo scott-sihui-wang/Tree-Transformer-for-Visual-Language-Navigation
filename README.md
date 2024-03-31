@@ -4,7 +4,7 @@
 
 The aim of this project is to incorporate syntactic information into VLN (Visual Language Navigation) networks to improve cross modality alignment and decision making quality.
 
-
+Tree transformer proposed to impose `hierarchical constraints` in transformers, so that low layers only have short-ranges attention, which gradually merge into long-ranged attention in high layers.
 
 **Topics:** _Visual Language Navigation (VLN)_, _Embodied AI_, _BERT_, _Tree Transformer_, _Natural Language Processing_, _Robotics_
 
