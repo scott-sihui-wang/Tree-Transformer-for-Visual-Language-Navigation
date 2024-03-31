@@ -24,7 +24,7 @@ To setup the project and replicate the experimental results, please check out th
   
 - [experiments with VLN Bert Model with Tree Transformer](https://colab.research.google.com/drive/1i0L6nzryegeVfYneaiRTM_JblJ65DWhk?usp=sharing).
 
-  Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technical report](/demo/Syntactic_Aware_Cross_Modality_Alignment_for_Vision_Language.pdf) for more details. There is also a presentation video for this project and you can find it [here](https://youtu.be/hAMiFiiKHzI).
+Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technical report](/demo/Syntactic_Aware_Cross_Modality_Alignment_for_Vision_Language.pdf) for more details. There is also a presentation video for this project and you can find it [here](https://youtu.be/hAMiFiiKHzI).
 
 **Topics:** _Visual Language Navigation (VLN)_, _Embodied AI_, _BERT_, _Tree Transformer_, _Natural Language Processing_, _Robotics_
 
