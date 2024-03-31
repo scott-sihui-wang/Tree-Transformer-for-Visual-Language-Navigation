@@ -40,7 +40,7 @@ Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technica
 
 ## 2. Results
 
-Below shows the `success rates` of navigation for `VLN Bert` and our method on `training`, `Validation-Seen`, and `Validation-Unseen` datasets.
+Below shows the `success rates` of navigation for `VLN Bert` (the ones start with `Base`) and our method (the ones start with `Syn`) on `training`, `validation-seen`, and `validation-unseen` datasets.
 
 ![](/demo/SuccessRate.png)
 
