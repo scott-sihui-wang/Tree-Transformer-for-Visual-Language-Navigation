@@ -14,7 +14,7 @@ In this project, we added `hierarchical constraints` and `constituent attention`
 
 The project is hosted on `Colab`. Please follow the [link](https://drive.google.com/drive/folders/11PMBFEDVkjrm4O2td1NitIy0Z41TFcSh?usp=sharing) to check out the full details of this project.
 
-
+To replicate the experimental results, please check out the `Colab` pages: 
 
 **Topics:** _Visual Language Navigation (VLN)_, _Embodied AI_, _BERT_, _Tree Transformer_, _Natural Language Processing_, _Robotics_
 
