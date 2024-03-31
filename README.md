@@ -42,11 +42,17 @@ Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technica
 
 Below shows the `success rates` of navigation for `VLN Bert` (the ones start with `Base`) and our method (the ones start with `Syn`) on `training`, `validation-seen`, and `validation-unseen` datasets.
 
-![](/demo/SuccessRate.png)
+![Success Rate Comparison](/demo/SuccessRate.png)
 
 Below shows the heatmap of `constituent priors` for an example instruction: _Turn around and enter the house. Head past the blue chairs. When you are behind the red chair on the left, turn and enter the bathroom to the left. Stop inside the bathroom right in front of the sink facing the sink and mirror._
 
-![](/demo/SelfAttention.png)
+![Heatmap of Self Attention](/demo/SelfAttention.png)
+
+Our conclusions are:
+
+- The `Transformer-Syntactic model` (our method) tends to outperform the `Transformer-Baseline model` (`VLN Bert`) in success rate, however the `Transformer-Baseline model` tends to generate more concise paths. Overall, the difference between the two models is quite small.
+
+- Although the `tree transformer` did show short-ranged attention at lower layers and long-ranged attention at higher layers, it didn’t seem to learn tree structures of syntactic constituents for better cross modality alignment in `VLN` scenarios.
 
 ## 3. Acknowledgement
 
