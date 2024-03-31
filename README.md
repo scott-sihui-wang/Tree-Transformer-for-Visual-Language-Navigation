@@ -2,6 +2,10 @@
 
 ## 1. Introduction
 
+The aim of this project is to incorporate syntactic information into VLN (Visual Language Navigation) networks to improve cross modality alignment and decision making quality.
+
+
+
 **Topics:** _Visual Language Navigation (VLN)_, _Embodied AI_, _BERT_, _Tree Transformer_, _Natural Language Processing_, _Robotics_
 
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
