@@ -40,7 +40,9 @@ Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technica
 
 ## 2. Results
 
+![](/demo/SuccessRate.png)
 
+![](/demo/SelfAttention.png)
 
 ## 3. Acknowledgement
 
