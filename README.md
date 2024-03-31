@@ -14,6 +14,10 @@ Here is the general workflow of `Visual Language Navigation`:
 
 In this project, we added `hierarchical constraints` and `constituent attention` to `VLN Bert` to see if `tree transformer` helps improve understanding of syntactic information and leads to better performance.
 
+Here is the architecture of `VLN Bert` network:
+
+![VLNBert](/demo/VLNBert.png)
+
 ### 1.2 Project Overview
 
 The project is hosted on `Colab`. Please follow the [link](https://drive.google.com/drive/folders/11PMBFEDVkjrm4O2td1NitIy0Z41TFcSh?usp=sharing) to check out the full details of this project.
