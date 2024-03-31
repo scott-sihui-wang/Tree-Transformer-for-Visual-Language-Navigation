@@ -8,7 +8,7 @@ The aim of this project is to incorporate syntactic information into VLN (`Visua
 
 Here is the general workflow of `Visual Language Navigation`:
 
-![VLN Workflow]()
+![VLN Workflow](/demo/VLNWorkflow.png)
 
 `Tree transformer` proposed to impose `hierarchical constraints` and `constituent attention` in transformers, so that low layers only have short-ranges attention, which gradually merge into long-ranged attention in high layers. This is to mimic the tree structures that we usually obtain when we parse a sentence. It is believed that tree transformer helps transformer better understand the grammar structures of the text.
 
