@@ -6,6 +6,10 @@
 
 The aim of this project is to incorporate syntactic information into VLN (`Visual Language Navigation`) networks to improve cross modality alignment and decision making quality.
 
+Here is the general workflow of `Visual Language Navigation`:
+
+![VLN Workflow]()
+
 `Tree transformer` proposed to impose `hierarchical constraints` and `constituent attention` in transformers, so that low layers only have short-ranges attention, which gradually merge into long-ranged attention in high layers. This is to mimic the tree structures that we usually obtain when we parse a sentence. It is believed that tree transformer helps transformer better understand the grammar structures of the text.
 
 In this project, we added `hierarchical constraints` and `constituent attention` to `VLN Bert` to see if `tree transformer` helps improve understanding of syntactic information and leads to better performance.
@@ -31,6 +35,8 @@ Please refer to my [presentation](/demo/CMPT_713_Final_Report.pdf) and [technica
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
 
 ## 2. Results
+
+
 
 ## 3. Acknowledgement
 
