@@ -9,3 +9,5 @@
 ## 2. Results
 
 ## 3. Acknowledgement
+
+We acknowledge the use of codes from [SyntaxVLN](https://github.com/jialuli-luka/SyntaxVLN), [Recurrent VLN Bert](https://github.com/YicongHong/Recurrent-VLN-BERT), and [Tree Transformer](https://github.com/yaushian/Tree-Transformer).
