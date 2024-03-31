@@ -44,6 +44,8 @@ Below shows the `success rates` of navigation for `VLN Bert` (the ones start wit
 
 ![](/demo/SuccessRate.png)
 
+Below shows the heatmap of `constituent priors` for an example instruction: _Turn around and enter the house. Head past the blue chairs. When you are behind the red chair on the left, turn and enter the bathroom to the left. Stop inside the bathroom right in front of the sink facing the sink and mirror._
+
 ![](/demo/SelfAttention.png)
 
 ## 3. Acknowledgement
